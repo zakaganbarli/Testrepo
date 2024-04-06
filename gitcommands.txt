@@ -4,4 +4,4 @@ git commands
 3 git commit -m :mesaj yaz
 4 git branch -M
 5 git remote add origin " kanal linki"
-6 git add origin main
+6 git push origin main
